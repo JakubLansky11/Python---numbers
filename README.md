@@ -1,8 +1,8 @@
 # Python---numbers
-Python programs about numbers - prime numbers, odd numbers, even numbers and divisibles. 
+This small project is about making python programs about numbers - prime numbers, odd numbers, even numbers and divisibles. 
 
-One is jupyter notebook. There are functions for writing numbers up. 
+One file is jupyter notebook. There are functions for writing numbers up. 
 
-Second one is program, which will write prime numbers up. You have to choose interval (start, end, end is included). 
+Second file is program, which will write prime numbers up. Only you have to do is choose interval (start, end, end is included). 
 
 In Czech language.
